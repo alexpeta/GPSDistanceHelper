@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexPetaBlog.GPSDistanceCalculator", "AlexPetaBlog.GPSDistanceCalculator\AlexPetaBlog.GPSDistanceCalculator.csproj", "{6ACEA6BD-6ADE-47E6-9791-EC77B737FCD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexPetaBlog.GPSDistanceCalculator.Tests", "AlexPetaBlog.GPSDistanceCalculator.Tests\AlexPetaBlog.GPSDistanceCalculator.Tests.csproj", "{558A0881-60B6-444A-8222-57F44EFF00CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACEA6BD-6ADE-47E6-9791-EC77B737FCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACEA6BD-6ADE-47E6-9791-EC77B737FCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACEA6BD-6ADE-47E6-9791-EC77B737FCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACEA6BD-6ADE-47E6-9791-EC77B737FCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{558A0881-60B6-444A-8222-57F44EFF00CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558A0881-60B6-444A-8222-57F44EFF00CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558A0881-60B6-444A-8222-57F44EFF00CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558A0881-60B6-444A-8222-57F44EFF00CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

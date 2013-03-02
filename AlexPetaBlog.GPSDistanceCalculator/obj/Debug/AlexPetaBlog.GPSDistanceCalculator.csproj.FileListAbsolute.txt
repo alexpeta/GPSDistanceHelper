@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2012\Projects\AlexPetaBlog.GPSDistanceCalculator\AlexPetaBlog.GPSDistanceCalculator\bin\Debug\AlexPetaBlog.GPSDistanceCalculator.dll
+c:\users\alex\documents\visual studio 2012\Projects\AlexPetaBlog.GPSDistanceCalculator\AlexPetaBlog.GPSDistanceCalculator\bin\Debug\AlexPetaBlog.GPSDistanceCalculator.pdb
+c:\users\alex\documents\visual studio 2012\Projects\AlexPetaBlog.GPSDistanceCalculator\AlexPetaBlog.GPSDistanceCalculator\obj\Debug\AlexPetaBlog.GPSDistanceCalculator.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2012\Projects\AlexPetaBlog.GPSDistanceCalculator\AlexPetaBlog.GPSDistanceCalculator\obj\Debug\AlexPetaBlog.GPSDistanceCalculator.dll
+c:\users\alex\documents\visual studio 2012\Projects\AlexPetaBlog.GPSDistanceCalculator\AlexPetaBlog.GPSDistanceCalculator\obj\Debug\AlexPetaBlog.GPSDistanceCalculator.pdb
